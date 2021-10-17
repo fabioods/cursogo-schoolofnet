@@ -7,17 +7,30 @@
 
 > Curso abordando os principios básicos da linguagem go.
 
+## Install
+
+```sh
+go mod tidy
+```
+
+## Usage
+
+```sh
+Comando para baixar dependências
+```
+
 ## Author
 
 👤 **Fábio dos Santos**
 
-* Twitter: [@fabioods](https://twitter.com/fabioods)
-* Github: [@fabioods](https://github.com/fabioods)
-* LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
+- Twitter: [@fabioods](https://twitter.com/fabioods)
+- Github: [@fabioods](https://github.com/fabioods)
+- LinkedIn: [@fabioods](https://linkedin.com/in/fabioods)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
