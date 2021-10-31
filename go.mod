@@ -1,4 +1,4 @@
-module songo
+module cursogo-schoolofnet
 
 go 1.17
 

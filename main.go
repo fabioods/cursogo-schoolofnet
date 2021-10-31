@@ -1,20 +1,21 @@
 package main
 
 import (
+	"cursogo-schoolofnet/blankidentifier"
+	"cursogo-schoolofnet/condicional"
+	"cursogo-schoolofnet/function"
+	"cursogo-schoolofnet/hello"
+	"cursogo-schoolofnet/lacos"
+	"cursogo-schoolofnet/pointers"
+	"cursogo-schoolofnet/switchcase"
+	"cursogo-schoolofnet/variables"
+	"cursogo-schoolofnet/visibility"
 	"fmt"
-	"songo/blankidentifier"
-	"songo/condicional"
-	"songo/function"
-	"songo/hello"
-	"songo/lacos"
-	"songo/pointers"
-	"songo/switchcase"
-	"songo/variables"
-	"songo/visibility"
 )
 
 func main() {
-	fmt.Printf("Hello, World! %v \n\n", z)
+	a := 1
+	fmt.Printf("Hello, World! %v \n\n", a)
 	hello.ShowUUID()
 	fmt.Printf("Varible B %v\n\n", variables.B)
 	variables.ShowVariables()
