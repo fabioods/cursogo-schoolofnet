@@ -16,7 +16,7 @@ go mod tidy
 ## Usage
 
 ```sh
-Comando para baixar dependências
+go run .
 ```
 
 ## Author

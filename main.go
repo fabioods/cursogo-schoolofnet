@@ -14,7 +14,6 @@ import (
 )
 
 func main() {
-	a := 1
 	fmt.Printf("Hello, World! %v \n\n", a)
 	hello.ShowUUID()
 	fmt.Printf("Varible B %v\n\n", variables.B)
